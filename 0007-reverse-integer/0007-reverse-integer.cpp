@@ -1,7 +1,6 @@
 class Solution {
 public:
     int reverse(int x) {
-      
         int ans=0;
         while(x!=0){
            int d=x%10;
